@@ -1,0 +1,8 @@
+numpy
+scipy
+scikit-learn
+tqdm
+torchvision
+soundfile
+opencv-python
+wave
