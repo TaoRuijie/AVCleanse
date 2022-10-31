@@ -22,7 +22,7 @@ V-Vox2.model:  The face network (ResNet18) trained on VoxCeleb2
 V-Glint.model: The face network (ResNet50) trained on Glint360K
 ```
 
-Put these models into the **pretrain** folder.
+Create a **pretrain** folder in root directory, put these models into the **pretrain** folder.
 
 ### Dataset and text files 
 
