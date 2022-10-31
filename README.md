@@ -14,7 +14,7 @@ This code uses Mixed Precision Training (torch.cuda.amp).
 `pip install -r requirements.txt`
 
 ### Pretrain model
-The link of the pretrain model can be found [here](https://drive.google.com/drive/folders/16-OZbhixGx4qPO3Sva7fM3lO2jty85V-?usp=sharing).
+The link of the pretrain model can be found [here](https://drive.google.com/drive/folders/1W3c6V5bfGZTfwJLJq6ORSXXCLAsG7l2U?usp=share_link).
 
 ```
 A-Vox2.model:  The speaker network (ECAPA-L) trained on VoxCeleb2
